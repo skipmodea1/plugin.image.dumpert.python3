@@ -26,7 +26,7 @@
     <license>GNU General Public License v3.0 only</license>
     <forum>https://forum.kodi.tv/showthread.php?tid=315439</forum>
     <website>https://dumpert.nl</website>
-    <source>https://github.com/skipmodea1/plugin.image.dumpert</source>
+    <source>https://github.com/skipmodea1/plugin.image.dumpert.python3</source>
     <news>v1.0.4 (2019-09-21)
     - MAJOR changes in the addon due to redesigned website
     - moved to Krypton
